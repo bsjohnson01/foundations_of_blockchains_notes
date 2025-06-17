@@ -10,9 +10,7 @@ Foundations of Blockchains课程（*by Prof. Tim Roughgarden*）笔记
 
 *\*本笔记定有遗漏错误之处，请务必观看视频教程和教授编写的笔记（下述每个章节的开头都有笔记链接），并阅读相关文献（**一定不能跳过文献阅读**）*
 
-课程视频资源（https://youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA&si=OZF0s4r9lsS4ejXz）：
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=5TihoCNFvfO7pD73&amp;list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+课程视频资源（https://youtube.com/playlist?list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA&si=OZF0s4r9lsS4ejXz）
 
 ## 0 术语表与阅读材料
 

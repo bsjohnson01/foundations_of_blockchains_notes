@@ -1,1 +1,2 @@
-# foundations_of_blockchains_notes
+# 区块链基础笔记
+文件使用typora编辑，读者可以用typora浏览，渲染效果要好一些，也可以看pdf文档。
